@@ -1,4 +1,4 @@
-# Analysis of the world population in 2015 
+# Analysis of the world population 
 
 ![header](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3ef4c925850873.5634bb924adc1.jpg)
 
